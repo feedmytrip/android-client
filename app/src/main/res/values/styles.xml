@@ -1,0 +1,15 @@
+<resources>
+    <style name="fmtAppTheme" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="fmtAppThemeLogin" parent="fmtAppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorBackground">@color/colorAccent</item>
+        <item name="colorPrimary">@color/primary_material_light</item>
+    </style>
+
+    <style name="fmtGenericProgressIndicator" parent="fmtAppTheme">
+        <item name="colorAccent">@color/colorBlue</item>
+    </style>
+</resources>

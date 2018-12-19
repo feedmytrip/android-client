@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">FeedMyTrip</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="login_failed">Invalid login credentials</string>
+</resources>
